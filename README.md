@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on CoderHouse as Student's tutor and at CEPIT **as Programming Teacher**
 
-- 🌱 I’m currently learning **Django, React, C++**
+- 🌱 I’m currently learning **Django, React**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://jableed43.github.io/Portfolio/)
 
