@@ -3,15 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jableed43&label=Profile%20views&color=0e75b6&style=flat" alt="jableed43" /> </p>
 
-- 🔭 I’m currently working on CoderHouse as Student's tutor and at CEPIT **as Programming Teacher**
+- 🔭 I’m currently working at [CoderHouse](https://www.coderhouse.com/) as **Student's tutor** and at [CEPIT](https://cepit.org.ar/) as **Programming Teacher**
 
-- 🌱 I’m currently learning **Django, React**
+- 🌱 I’m currently learning **Django and React**, i'm *everytime learning something new.*
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://jableed43.github.io/Portfolio/)
 
 - 📫 How to reach me **javiernehuenlopez@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1njHaH6NmMpsDVaMLN0JppE12qIriUL3d/view)
+- 📄 Know about my experiences [Spanish Resume](https://drive.google.com/file/d/1njHaH6NmMpsDVaMLN0JppE12qIriUL3d/view) / [English Resume](https://drive.google.com/file/d/1njHaH6NmMpsDVaMLN0JppE12qIriUL3d/view)
+
 
 - ⚡ Fun fact **I Love tech, music, cooking, videogames**
 
