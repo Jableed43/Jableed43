@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [CoderHouse](https://www.coderhouse.com/) as **Student's tutor** and at [CEPIT](https://cepit.org.ar/) as **Programming Teacher**
 
-- 🌱 I’m currently learning **Django and React**, i'm *everytime learning something new.*
+- 🌱 I'm *everytime learning something new.*
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://jableed43.github.io/Portfolio/)
 
