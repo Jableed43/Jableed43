@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jableed43&label=Profile%20views&color=0e75b6&style=flat" alt="jableed43" /> </p>
 
-- 🔭 I’m currently working at [CoderHouse](https://www.coderhouse.com/) as **Student's tutor** and at [CEPIT](https://cepit.org.ar/) as **Programming Teacher**
+- 🔭 I’m currently working at [UTN FRBA](https://www.frba.utn.edu.ar/) as **Programming Teacher**
 
 - 🌱 I'm *everytime learning something new.*
 
