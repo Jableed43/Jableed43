@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [UTN FRBA](https://www.frba.utn.edu.ar/) as **Programming Teacher**
 
-- 🌱 I'm currently studying Higher Technician Software Development career at IFTS n°29.
+- 🌱 I'm currently studying Higher Technician Software Development career at [IFTS n°29](https://ifts29.com.ar/)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://jableed43.github.io/Portfolio/)
 
@@ -18,5 +18,4 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/javier-nehuen-lopez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier-nehuen-lopez/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/javiernehuenlopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="javiernehuenlopez" height="30" width="40" /></a>
 </p>
