@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Javier Lopez</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">A Passionate Full Stack Web Developer & Dedicated Technology Educator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jableed43&label=Profile%20views&color=0e75b6&style=flat" alt="jableed43" /> </p>
 
-- 🔭 I’m currently working at [UTN FRBA](https://www.frba.utn.edu.ar/) as **Programming Teacher**
+- 🧑‍🏫 I'm currently shaping future tech talent as a **Programming Teacher** at [UTN FRBA](https://www.frba.utn.edu.ar/)
 
-- 🌱 I'm currently studying Higher Technician Software Development career at [IFTS n°29](https://ifts29.com.ar/)
+- 💡 I'm also expanding my own tech horizons, studying the Higher Technician Software Development career at [IFTS n°29](https://ifts29.com.ar/)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://jableed43.github.io/Portfolio/)
+- 🚀 Explore my development projects and creative solutions at [Portfolio](https://jableed43.github.io/portfolio-2025/)
 
-- 📫 How to reach me **javiernehuenlopez@gmail.com**
+- 📄 Learn more about my experience: [English Resume](https://drive.google.com/file/d/1ITy5VZE1zZ7HePe6Phx__Wc5gs4oE9h2/view?usp=drive_link) / [Spanish Resume](https://drive.google.com/file/d/1zFyTpJMgsNqQarB8Jz_llleVpAkfj1Jk/view?usp=drive_link)
 
-- 📄 Know about my experiences [Spanish Resume](https://drive.google.com/file/d/1e2MqiEvttQwJiS6PKacf9a4d5CJ2zb_s/view?usp=drive_link) / [English Resume](https://drive.google.com/file/d/1VgB7TRwfrZxGns8nNMPnwXwss54CEmG7/view?usp=drive_link)
-
-- ⚡ Fun fact **I Love tech, music, cooking, videogames**
+- ✨ Fun fact: **I'm energized by the intersection of tech and learning, fueled by music, cooking, and the occasional virtual adventure!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
